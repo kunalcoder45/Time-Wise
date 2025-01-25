@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Doto:wght@100..900&family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&family=Lexend:wght@100..900&family=Merriweather+Sans:ital,wght@0,300..800;1,300..800&family=Play:wght@400;700&family=Playwrite+US+Modern+Guides&family=Quicksand:wght@300..700&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&family=Ysabeau+SC:wght@1..1000&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Rozha+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque&display=swap');
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+a:hover {
+  text-decoration-line: underline;
+}
